@@ -1,4 +1,4 @@
-// ODg5NDEyMDgxMDcyMzQwOTk0.YUg3jA.fh13sWwWwNSGgQTWtl6KMo7DcKA
+//
 const Discord = require("discord.js");
 const { token } = require('./config.js');
 const Bot = new Discord.Client({intents: [Discord.Intents.FLAGS.GUILD_MEMBERS, Discord.Intents.FLAGS.GUILDS]})
